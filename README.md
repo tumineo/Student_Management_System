@@ -45,7 +45,8 @@ demonstrating core software development principles such as database integration,
 
 - C#
 - .NET Framework
-- Windows Forms
+- HTML and CSS
+- Javascript
 - SQLite
 - Visual Studio
 
